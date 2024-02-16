@@ -1,6 +1,6 @@
 # Welcome to the public GitHub page of ShapeDiver! 
 
-Turn your Grasshopper files into online applications. Safely share your design tools with others without exposing the original code. Easily embed them on any website via an iframe or integrate them with your favorite eCommerce platform or ERP system via our APIs and SDKs. Our online platform allows you to manage and enable easy access to your entire library of Grasshopper files... from a web browser.
+Turn your Grasshopper files into [online applications](https://www.shapediver.com). Safely share your design tools with others without exposing the original code. Easily embed them on any website via an iframe or integrate them with your favorite eCommerce platform or ERP system via our APIs and SDKs. Our online platform allows you to manage and enable easy access to your entire library of Grasshopper files... from a web browser.
 
 ## Some repositories you might be interested in 
 
