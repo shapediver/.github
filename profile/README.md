@@ -10,8 +10,8 @@
   * Integration examples
     * [Viktor](https://github.com/shapediver/ViktorIntegrationTemplate)
   * sdTF - Structured Data Transfer Format
-    * [sdTF specifiction](https://github.com/shapediver/sdTF)https://github.com/shapediver/sdTF
-    * [sdTF TypeScript SDK](https://github.com/shapediver/ShapeDiverSdtfTypeScript)https://github.com/shapediver/ShapeDiverSdtfTypeScript
+    * [sdTF specifiction](https://github.com/shapediver/sdTF)
+    * [sdTF TypeScript SDK](https://github.com/shapediver/ShapeDiverSdtfTypeScript)
 
 ## Useful resources
 
