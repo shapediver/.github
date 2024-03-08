@@ -9,6 +9,8 @@ Turn your Grasshopper files into [online applications](https://www.shapediver.co
   * Examples using our SDKs
     * [.NET SDK - console application](https://github.com/shapediver/DotNetSdkExampleConsoleApp)
     * [TypeScript SDKs - console application](https://github.com/shapediver/TypeScriptSdkExample-CLI)
+  * Grasshopper and Rhino plug-in template
+    * [GrasshopperPluginTemplate](https://github.com/shapediver/GrasshopperPluginTemplate)
   * Integration examples
     * [Viktor](https://github.com/shapediver/ViktorIntegrationTemplate)
   * sdTF - Structured Data Transfer Format
