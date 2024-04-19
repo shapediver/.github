@@ -4,8 +4,8 @@ Turn your Grasshopper files into [online applications](https://www.shapediver.co
 
 ## Some repositories you might be interested in 
 
-  * React
-    * [Best practice example](https://github.com/shapediver/AppBuilderSdk) on how to use the [ShapeDiver 3D Viewer](https://help.shapediver.com/doc/viewer) with React
+  * App Builder SDK, React
+    * The [App Builder SDK](https://github.com/shapediver/AppBuilderSdk) is a best practice example on how to use the [ShapeDiver 3D Viewer](https://help.shapediver.com/doc/viewer) with React.
   * Examples using our SDKs
     * [.NET SDK - console application](https://github.com/shapediver/DotNetSdkExampleConsoleApp)
     * [TypeScript SDKs - console application](https://github.com/shapediver/TypeScriptSdkExample-CLI)
