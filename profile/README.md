@@ -31,6 +31,6 @@ Turn your Grasshopper files into [online applications](https://www.shapediver.co
   * [Community and Support](https://help.shapediver.com/doc/community-and-support)
   * [Forum](https://forum.shapediver.com)
   * [ShapeDiver Platform](https://www.shapediver.com/app/)
-  * [What is ShapeDiver?](https://www.shapediver.com/)
+  * [What is ShapeDiver?](https://help.shapediver.com/doc/what-is-shapediver)
   * [Online 3D Product Configurators](https://www.shapediver.com/3d-configurators)
 
