@@ -13,6 +13,7 @@ Turn your Grasshopper files into [online applications](https://www.shapediver.co
     * [ShapeDiver 3D Viewer code examples](https://github.com/shapediver/ViewerExamples)
   * ShapeDiver OpenAPI Specification
     * Dynamically generate Client SDKs for various programming languages based on our [specifications](https://github.com/shapediver/OpenApiSpecifications).
+    * [TypeScript SDK](https://github.com/shapediver/GeometryBackendSdkTypeScript)
     * [Python SDK](https://github.com/shapediver/GeometryBackendSdkPython)
     * [PHP SDK](https://github.com/shapediver/GeometryBackendSdkPhp)
   * Grasshopper and Rhino plug-ins
