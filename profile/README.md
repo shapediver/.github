@@ -10,6 +10,7 @@ Turn your Grasshopper files into [online applications](https://www.shapediver.co
     * [.NET SDK - console application (CLI)](https://github.com/shapediver/DotNetSdkExampleConsoleApp)
     * [TypeScript SDKs - console application (CLI)](https://github.com/shapediver/TypeScriptSdkExample-CLI)
     * [TypeScript glTF converter](https://github.com/shapediver/TypeScriptSdkExample-glTF-Converter)
+    * [ShapeDiver 3D Viewer code examples](https://github.com/shapediver/ViewerExamples)
   * ShapeDiver OpenAPI Specification
     * Dynamically generate Client SDKs for various programming languages based on our [specifications](https://github.com/shapediver/OpenApiSpecifications).
     * [Python SDK](https://github.com/shapediver/GeometryBackendSdkPython)
@@ -20,7 +21,7 @@ Turn your Grasshopper files into [online applications](https://www.shapediver.co
   * Integration examples
     * [Viktor](https://github.com/shapediver/ViktorIntegrationTemplate)
     * [WebGI - iJewel3D](https://github.com/shapediver/ShapeDiverWebGiIntegration)
-    * [WordPress](https://github.com/shapediver/WordPressPlugin)
+    * [WordPress and WooCommerce](https://github.com/shapediver/WordPressPlugin)
   * sdTF - Structured Data Transfer Format
     * [sdTF specifiction](https://github.com/shapediver/sdTF)
     * [sdTF TypeScript SDK](https://github.com/shapediver/ShapeDiverSdtfTypeScript)
