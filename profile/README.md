@@ -11,7 +11,8 @@ Turn your Grasshopper files into [online applications](https://www.shapediver.co
     * [TypeScript SDKs - console application (CLI)](https://github.com/shapediver/TypeScriptSdkExample-CLI)
     * [TypeScript glTF converter](https://github.com/shapediver/TypeScriptSdkExample-glTF-Converter)
     * [ShapeDiver 3D Viewer code examples](https://github.com/shapediver/ViewerExamples)
-    * [Stargate Web Client Example - Connect your web app with ShapeDiver](https://github.com/shapediver/StargateWebClientExample)
+    * [Stargate Web Client Example - Connect your web app to ShapeDiver](https://github.com/shapediver/StargateWebClientExample)
+    * [Stargate .NET Client Example - Connect your .NET app to ShapeDiver](https://github.com/shapediver/StargateDotNetClientExample)
   * ShapeDiver OpenAPI Specification
     * Dynamically generate Client SDKs for various programming languages based on our [specifications](https://github.com/shapediver/OpenApiSpecifications).
     * [TypeScript SDK](https://github.com/shapediver/GeometryBackendSdkTypeScript)
