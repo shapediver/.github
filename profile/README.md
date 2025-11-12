@@ -1,11 +1,11 @@
 # Welcome to the public GitHub page of ShapeDiver! 
 
-Turn your Grasshopper files into [online applications](https://www.shapediver.com). Safely share your design tools with others without exposing the original code. Easily embed them on any website via an iframe or integrate them with your favorite eCommerce platform or ERP system via our APIs and SDKs. Our online platform allows you to manage and enable easy access to your entire library of Grasshopper files... from a web browser.
+Turn your Grasshopper files into [online applications](https://www.shapediver.com). Create flexible, customizable single-page 3D web applications using only Grasshopper. Safely share your design tools with others without exposing the original code. Easily embed them on any website via an iframe or integrate them with your favorite eCommerce platform or ERP system via our APIs and SDKs. Our online platform allows you to manage and enable easy access to your entire library of Grasshopper files... from a web browser.
 
 ## Some repositories you might be interested in 
 
   * App Builder
-    * The [App Builder SDK](https://github.com/shapediver/AppBuilderSdk) is a best practice example on how to use the [ShapeDiver 3D Viewer](https://help.shapediver.com/doc/viewer) with React.
+    * The [App Builder SDK](https://github.com/shapediver/AppBuilderSdk) is the open-source frontend to ShapeDiver's [App Builder framework](https://help.shapediver.com/doc/shapediver-app-builder). It's also a best practice example on how to use the [ShapeDiver 3D Viewer](https://help.shapediver.com/doc/viewer) with React.
   * Examples using our SDKs
     * [.NET SDK - console application (CLI)](https://github.com/shapediver/DotNetSdkExampleConsoleApp)
     * [TypeScript SDKs - console application (CLI)](https://github.com/shapediver/TypeScriptSdkExample-CLI)
@@ -22,9 +22,9 @@ Turn your Grasshopper files into [online applications](https://www.shapediver.co
     * [GrasshopperPluginTemplate](https://github.com/shapediver/GrasshopperPluginTemplate)
     * [Noah's Ark](https://github.com/shapediver/NoahsArk)
   * Integration examples
+    * [WordPress and WooCommerce](https://github.com/shapediver/WordPressPlugin)
     * [Viktor](https://github.com/shapediver/ViktorIntegrationTemplate)
     * [WebGI - iJewel3D](https://github.com/shapediver/ShapeDiverWebGiIntegration)
-    * [WordPress and WooCommerce](https://github.com/shapediver/WordPressPlugin)
   * sdTF - Structured Data Transfer Format
     * [sdTF specifiction](https://github.com/shapediver/sdTF)
     * [sdTF TypeScript SDK](https://github.com/shapediver/ShapeDiverSdtfTypeScript)
@@ -37,4 +37,5 @@ Turn your Grasshopper files into [online applications](https://www.shapediver.co
   * [ShapeDiver Platform](https://www.shapediver.com/app/)
   * [What is ShapeDiver?](https://help.shapediver.com/doc/what-is-shapediver)
   * [Online 3D Product Configurators](https://www.shapediver.com/3d-configurators)
+  * [ShapeDiver for AEC](https://www.shapediver.com/aec)
 
