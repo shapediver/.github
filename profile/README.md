@@ -5,7 +5,7 @@ Turn your Grasshopper files into [online applications](https://www.shapediver.co
 ## Some repositories you might be interested in 
 
   * LLM Skills
-    * Point your coding agent to the [ShapeDiver LLM Skills](https://github.com/shapediver/ShapeDiverLLMSkills) to give it ShapeDiver superpowers.
+    * Point your coding agent to the [ShapeDiver Agent Skills](https://github.com/shapediver/agent-skills) to give it ShapeDiver superpowers.
   * App Builder
     * The [App Builder SDK](https://github.com/shapediver/AppBuilderSdk) is the open-source frontend to ShapeDiver's [App Builder framework](https://help.shapediver.com/doc/shapediver-app-builder). It's also a best practice example on how to use the [ShapeDiver 3D Viewer](https://help.shapediver.com/doc/viewer) with React.
   * Examples using our SDKs
